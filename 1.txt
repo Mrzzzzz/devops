@@ -1,3 +1,0 @@
-https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html
-
-"registry-mirrors": ["http://hub-mirror.c.163.com", "https://docker.mirrors.ustc.edu.cn","https://ustc-edu-cn.mirror.aliyuncs.com/","https://mirror.baidubce.com"]
